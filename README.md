@@ -10,3 +10,4 @@
 Самара
 
 **Фото**
+![Фотка](https://github.com/DenIvanof/dz3_zadanie3/blob/main/pic.png)
